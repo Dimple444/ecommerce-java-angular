@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="HqHsmg2NZsqIosWm9_bi">
+    <mxGraphModel dx="774" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="Product catalog and user management system" vertex="1">
+          <mxGeometry height="230" width="120" x="340" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" value="Customer" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-8" edge="1" parent="1" source="k2ehfcqD6vxn1Ie2FlO0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="k2ehfcqD6vxn1Ie2FlO0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-9" connectable="0" parent="k2ehfcqD6vxn1Ie2FlO0-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Manages products" vertex="1">
+          <mxGeometry relative="1" x="0.0429" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-10" edge="1" parent="1" source="k2ehfcqD6vxn1Ie2FlO0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="k2ehfcqD6vxn1Ie2FlO0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-11" connectable="0" parent="k2ehfcqD6vxn1Ie2FlO0-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Views products,&amp;nbsp;&lt;div&gt;registers, logs in&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0346" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" value="Guest" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-6" edge="1" parent="1" source="k2ehfcqD6vxn1Ie2FlO0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.039;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;" target="k2ehfcqD6vxn1Ie2FlO0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-7" connectable="0" parent="k2ehfcqD6vxn1Ie2FlO0-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Browses products, &lt;br&gt;manages profile &lt;br&gt;&amp;amp; addresses" vertex="1">
+          <mxGeometry relative="1" x="-0.158" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2ehfcqD6vxn1Ie2FlO0-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;System Context Diagram (C4 Level 1)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="110" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
